@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f7f7;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.hero {
+    background-color: #007bff;
+    color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.about {
+    background-color: #28a745;
+    color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+h1 {
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 4em;
+}
